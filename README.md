@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm M O H A B</h1>
-<h3 align="center">A Developers with a passion to learn and innovate, think through problems, work well in a team environment, perform well under pressure, and meet strict deadlines</h3>
+<h3 align="left">Full-stack web developer with extensive experience in creating dynamic and responsive web applications, skilled in both front-end and back-end technologies, and committed to delivering high-quality products.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohap710&label=Profile%20views&color=0e75b6&style=flat" alt="mohap710" /> </p>
 
